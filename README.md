@@ -24,21 +24,39 @@
 
 ---
 
-### ⚡ Technical Arsenal & Weapons Cache
-
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AFL++-8A0303?style=for-the-badge&logo=target&logoColor=white" alt="AFL++" />
-  <img src="https://img.shields.io/badge/Joern_CPG-24292E?style=for-the-badge&logo=codeforces&logoColor=58A6FF" alt="Joern" />
-  <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=58A6FF" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</div>
 
----
+### ⚡ Technical Arsenal & Custom Badges
+
+<p align="center">
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=0d1117&labelColor=161b22" alt="C++" />
+  </a>
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&color=0d1117&labelColor=161b22" alt="Python" />
+  </a>
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/AFL++-8A0303?style=for-the-badge&logo=target&logoColor=ff4444&color=0d1117&labelColor=161b22" alt="AFL++" />
+  </a>
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/Joern_CPG-24292E?style=for-the-badge&logo=codeforces&logoColor=58A6FF&color=0d1117&labelColor=161b22" alt="Joern" />
+  </a>
+  <br>
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FF6633&color=0d1117&labelColor=161b22" alt="Burp Suite" />
+  </a>
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=E6EDF2&color=0d1117&labelColor=161b22" alt="Metasploit" />
+  </a>
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=1793D1&color=0d1117&labelColor=161b22" alt="Arch Linux" />
+  </a>
+  <a href="https://github.com/mobin2021">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=5391FE&color=0d1117&labelColor=161b22" alt="PowerShell" />
+  </a>
+</p>
+
+</div>
 
 ### 🔬 Research Domains & Toolchain
 
