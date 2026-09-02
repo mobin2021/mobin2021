@@ -1,53 +1,80 @@
 <div align="center">
-  <h1>RAISUL ISLAM MOBIN</h1>
-  <p><strong>Offensive Security Researcher & Systems Engineer</strong></p>
-  <p><em>"Lock down the physical machine, strip the telemetry, and keep total control of the execution flow."</em></p>
+
+# `RAISUL ISLAM MOBIN`
+### [ OFFENSIVE SECURITY RESEARCHER // SYSTEMS & EXPLOIT DEV ]
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Binary+Exploitation+%26+Fuzzing+Harnesses;Code+Property+Graph+(Joern)+Vulnerability+Discovery;Red+Team+Infrastructure+%26+AD+Vectors;Hardened+OS+Architectures+%26+Telemetry+Suppression" alt="Typing SVG" /></a>
+
+```text
+========================================================================================
+[::] NODE         : 0xMOBIN-SEC
+[::] PROTOCOL     : ZERO-TELEMETRY // AIR-GAPPED EXPLOIT REPOSITORY ARCHITECTURE
+[::] CLEARANCE    : RED TEAM OPERATIONS & BINARY REVERSE ENGINEERING
+[::] TARGET SPECS : LINUX KERNEL HARDENING // WIN32 INTERNALS // CODE AUDITING
+========================================================================================
+```
+
 </div>
 
-> **Handle:** MOBIN  
-> **Focus:** Vuln Research | Binary Exploitation | Red Team Automation  
-> **Methodology:** Code Property Graph (CPG) Analysis | Fuzzing Harnesses | Low-Level Internals  
+---
+
+### 🛡️ Operational Security Protocol (OpSec)
+
+> **`[!] OPERATIONAL NOTICE:`** Public repositories strictly host sanitized proof-of-concepts, automation utilities, and open-source tooling. All weaponized exploit harnesses, active vulnerability research pipelines, and client assessment telemetry are developed under isolated, air-gapped local instances to preserve client integrity and non-disclosure directives.
 
 ---
 
-### 🛠️ Technical Stack & Toolchain
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/AFL++-000000?style=flat-square&logo=target&logoColor=red" alt="AFL++" />
-  <img src="https://img.shields.io/badge/Joern-24292E?style=flat-square&logo=codeforces&logoColor=white" alt="Joern" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Linux_Arch/Debian-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-| Category | Specialization & Tooling |
-| :--- | :--- |
-| **Languages** | Python, C++, Bash, PowerShell |
-| **Offensive Tooling** | AFL++, Joern (CPG), Burp Suite Pro, Metasploit, Custom Exploit Harnesses |
-| **Environments & OS** | Hardened Arch / Minimal Debian, Hardened Windows Workstations, Git |
-| **Research Disciplines** | Binary Reverse Engineering, Fuzzing Optimization, Logic Flaw Modeling |
-
----
-
-### 🎯 Certifications & Tracks
-
-- 🛡️ **CPTS** — *Certified Penetration Testing Specialist* (Track Trainee)
-- 🎯 **CBBH** — *Certified Bug Bounty Hunter* (Active Track / Completed)
-
----
-
-### 📊 Operations & Telemetry
+### ⚡ Technical Arsenal & Weapons Cache
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobin2021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin2021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AFL++-8A0303?style=for-the-badge&logo=target&logoColor=white" alt="AFL++" />
+  <img src="https://img.shields.io/badge/Joern_CPG-24292E?style=for-the-badge&logo=codeforces&logoColor=58A6FF" alt="Joern" />
+  <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=58A6FF" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </div>
 
+---
+
+### 🔬 Research Domains & Toolchain
+
+| Vector | Focus Architecture | Primary Tooling |
+| :--- | :--- | :--- |
+| **Vulnerability Discovery** | Automated coverage-guided fuzzing, crash triage, harness synthesis | `AFL++`, `AddressSanitizer (ASan)`, `GDB-GEF` |
+| **Static Code Auditing** | Semantic AST/CFG querying, taint analysis, sink-source tracking | `Joern (CPG)`, `Tree-sitter`, Custom Query Engines |
+| **Offensive Red Teaming** | Execution flow control, payload weaponization, perimeter breaching | `Burp Suite Pro`, `Metasploit`, Custom C++ Harnesses |
+| **Systems & Platforms** | Telemetry suppression, secure boot chaining, workstation hardening | `Arch Linux (Minimal)`, `Debian`, Hardened Win11 |
+
+---
+
+### 🎯 Certification Pipeline
+
+```text
+[■■■■■■■■■■■■■■■■■■□□] 90%  CPTS  | Certified Penetration Testing Specialist (Track Finalist)
+[■■■■■■■■■■■■■■■■■■■■] 100% CBBH  | Certified Bug Bounty Hunter (Completed Track)
+```
+
+---
+
+### 🛰️ Lab Architecture & Execution Environment
+
+```text
++-----------------------+-------------------------------------------------------+
+| Subsystem             | Configuration / Implementation Details               |
++-----------------------+-------------------------------------------------------+
+| Workstation           | Hardened Arch Linux (Custom Kernel, Telemetry Stripped)|
+| Target Staging        | Hyper-V / KVM isolated sandbox clusters               |
+| Low-Level Tooling     | Clang/LLVM tooling, radare2, objdump, strace          |
+| Network Emulation     | Multi-interface isolated virtual subnets / VLANs     |
++-----------------------+-------------------------------------------------------+
+```
+
+---
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mobin2021&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" alt="GitHub Streak" width="97%" />
+  <sub>"Lock down the physical machine, strip the telemetry, and keep total control of the execution flow."</sub>
 </div>
